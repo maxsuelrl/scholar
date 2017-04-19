@@ -73,8 +73,8 @@
                                     </li>
                                     <li class="dropdown-submenu" role="presentation"><a tabindex="-1" href="#">Disciplina</a>
                                         <ul class="dropdown-menu">
-                                            <li role="presentation"><a tabindex="-1" href="#">Cadastro</a></li>
-                                            <li role="presentation"><a tabindex="-1" href="#">Consulta</a></li>
+                                            <li role="presentation"><a tabindex="-1" href="/subjects/add">Cadastro</a></li>
+                                            <li role="presentation"><a tabindex="-1" href="/subjects">Consulta</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown-submenu" role="presentation"><a tabindex="-1" href="#">Período</a>
